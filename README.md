@@ -7,4 +7,4 @@ ESPHome Micro Wake Word: [Github](https://github.com/esphome/micro-wake-word-mod
 
 Open Wake Word: [Github](https://github.com/dscripka/openWakeWord)
 
-Wake Word model training: [Google Colab Space](https://colab.research.google.com) | Instructions Video: [MostlyChris](drive/1q1oe2zOyZp7UsB3jJiQ1IFn8z5YfjwEb?usp=sharing#scrollTo=-Q9wEuRdwY_E) | [Luxia Smart Home](https://youtu.be/_xzUIXLsa_A?si=ncOwirqgXczuHeDg)
+Wake Word model training: [Google Colab Space](https://colab.research.google.com/drive/1q1oe2zOyZp7UsB3jJiQ1IFn8z5YfjwEb) | Instructions Video: [MostlyChris](https://youtu.be/niav1gY5ago?si=rxjVosCc7UlQQ_B-) | [Luxia Smart Home](https://youtu.be/_xzUIXLsa_A?si=ncOwirqgXczuHeDg)
